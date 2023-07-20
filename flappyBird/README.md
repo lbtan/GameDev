@@ -1,5 +1,5 @@
 
-# Objectives
+# Specification
 
 Link to assignment: https://cs50.harvard.edu/games/2018/projects/1/flappy/
 
