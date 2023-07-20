@@ -1,6 +1,6 @@
 # GameDev
 Projects I did for Harvard's online course on game development
 
-# Pong - implemented computer player.
+1. Pong - implemented computer player.
 
-# Flappy Bird - implemented pause feature, increased rate of pipe generating, and medal feature.
+2. Flappy Bird - implemented pause feature, increased rate of pipe generating, and medal feature.
